@@ -23,7 +23,7 @@ python train_3D.py or python train_2D.py or python train_train_mobilenet_2D.py
 ```
 python test_XXXXX.py
 ```
-# Reimplemented methods
+# Related methods
 * [Mean Teacher](https://papers.nips.cc/paper/6719-mean-teachers-are-better-role-models-weight-averaged-consistency-targets-improve-semi-supervised-deep-learning-results.pdf)
 * [Entropy Minimization](https://openaccess.thecvf.com/content_CVPR_2019/papers/Vu_ADVENT_Adversarial_Entropy_Minimization_for_Domain_Adaptation_in_Semantic_Segmentation_CVPR_2019_paper.pdf)
 * [Deep Adversarial Networks](https://link.springer.com/chapter/10.1007/978-3-319-66179-7_47)
